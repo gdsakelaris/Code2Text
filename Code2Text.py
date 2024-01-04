@@ -49,7 +49,7 @@ def remove_selected():
 
 
 root = ThemedTk(theme="clearlooks")
-root.title('Code2Text | © 2023 George D. Sakelaris')
+root.title('Code2Text | © 2024 George Daniel Sakelaris')
 
 directory_path = filedialog.askdirectory()
 if not directory_path:
