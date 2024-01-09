@@ -1,4 +1,4 @@
- # The "Code2Text" application allows you to select and arrange files from a directory and generate a consolidated output file which contains all of the text from the selected file(s).
+ # 'Code2Text' is a development tool that enables large-scale source code documentation by aggregating and organizing text from user-specified project files.
 
  1. Choose Directory:
  - The application will open a file dialog asking you to select a directory.
